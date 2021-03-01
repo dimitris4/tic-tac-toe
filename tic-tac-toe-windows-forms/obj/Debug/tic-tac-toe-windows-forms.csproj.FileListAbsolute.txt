@@ -1,0 +1,10 @@
+C:\Users\dimit\Documents\KEA\4 semester\C#\tic-tac-toe\tic-tac-toe-windows-forms\tic-tac-toe-windows-forms\bin\Debug\tic_tac_toe_windows_forms.exe.config
+C:\Users\dimit\Documents\KEA\4 semester\C#\tic-tac-toe\tic-tac-toe-windows-forms\tic-tac-toe-windows-forms\bin\Debug\tic_tac_toe_windows_forms.exe
+C:\Users\dimit\Documents\KEA\4 semester\C#\tic-tac-toe\tic-tac-toe-windows-forms\tic-tac-toe-windows-forms\bin\Debug\tic_tac_toe_windows_forms.pdb
+C:\Users\dimit\Documents\KEA\4 semester\C#\tic-tac-toe\tic-tac-toe-windows-forms\tic-tac-toe-windows-forms\obj\Debug\tic-tac-toe-windows-forms.csprojAssemblyReference.cache
+C:\Users\dimit\Documents\KEA\4 semester\C#\tic-tac-toe\tic-tac-toe-windows-forms\tic-tac-toe-windows-forms\obj\Debug\tic_tac_toe_windows_forms.Properties.Resources.resources
+C:\Users\dimit\Documents\KEA\4 semester\C#\tic-tac-toe\tic-tac-toe-windows-forms\tic-tac-toe-windows-forms\obj\Debug\tic-tac-toe-windows-forms.csproj.GenerateResource.cache
+C:\Users\dimit\Documents\KEA\4 semester\C#\tic-tac-toe\tic-tac-toe-windows-forms\tic-tac-toe-windows-forms\obj\Debug\tic-tac-toe-windows-forms.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Documents\KEA\4 semester\C#\tic-tac-toe\tic-tac-toe-windows-forms\tic-tac-toe-windows-forms\obj\Debug\tic_tac_toe_windows_forms.exe
+C:\Users\dimit\Documents\KEA\4 semester\C#\tic-tac-toe\tic-tac-toe-windows-forms\tic-tac-toe-windows-forms\obj\Debug\tic_tac_toe_windows_forms.pdb
+C:\Users\dimit\Documents\KEA\4 semester\C#\tic-tac-toe\tic-tac-toe-windows-forms\tic-tac-toe-windows-forms\obj\Debug\tic_tac_toe_windows_forms.Form1.resources
